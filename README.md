@@ -15,6 +15,15 @@ Since there are already a couple of websites that are providing data on a worldw
 
 The Tableau Dashboard can also be viewed on Tablea Public at this link - https://tabsoft.co/2ZiiQsw
 
+![Tableau Dashboard Image](https://github.com/5amue1/COVID-19-US-Dashboards/blob/master/Tableau%20Dashboard%20Image.png)
+
+
+
+
+
+
+
+References:
 [1] CDC. (2020, February 11). Coronavirus Disease 2019 (COVID-19). Centers for Disease Control and Prevention. https://www.cdc.gov/coronavirus/2019-ncov/index.html
 [2] Home. (n.d.). Johns Hopkins Coronavirus Resource Center. Retrieved May 11, 2020, from https://coronavirus.jhu.edu/
 [3] maggiesMSFT. (n.d.). Ways to share your work in Power BI - Power BI. Retrieved May 11, 2020, from https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-how-to-collaborate-distribute-dashboards-reports
